@@ -1,0 +1,30 @@
+Date: 15/6/2023
+Time: 9:29
+Phone Number: +917489558023
+Message: hello this message is send by python code
+--------------------
+Date: 15/6/2023
+Time: 9:31
+Phone Number: +917489558023
+Message: hello this message is send by python code hello lucky
+--------------------
+Date: 15/6/2023
+Time: 10:55
+Phone Number: +918109673599
+Message: hello this message is send by python code hello lucky
+--------------------
+Date: 30/6/2023
+Time: 16:45
+Phone Number: +916263254576
+Message: hello this message is send by python code
+--------------------
+Date: 30/6/2023
+Time: 16:49
+Phone Number: +916263254576
+Message: hello this message is send by python code
+--------------------
+Date: 2/7/2023
+Time: 22:35
+Phone Number: +916263254576
+Message: hello this message is send by python code
+--------------------
